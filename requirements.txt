@@ -1,0 +1,7 @@
+# Core LLM provider (choose one)
+openai>=1.0.0
+# anthropic>=0.25.0  # Uncomment to use Anthropic Claude
+# ollama>=0.1.0      # Uncomment for local Ollama models
+
+# Optional utilities
+python-dotenv>=1.0.0   # Load .env files automatically
